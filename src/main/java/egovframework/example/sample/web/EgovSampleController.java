@@ -214,7 +214,7 @@ public class EgovSampleController {
 	public ModelAndView test1() throws Exception {
 		
 		ModelAndView mav = new ModelAndView();
-		
+		//
 		mav.setViewName("/sample/test1");
 		return mav;
 	}
